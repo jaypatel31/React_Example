@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    height: 100px;
+    background-color: #333;
+    color: whitesmoke;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div main{
+    color:blue;
+    height: 250px;
+    margin: 0px;
+    font-size:24px;    
+    padding-top:8px;
+    background-color: #f1f1f1
+}
+
+div footer{
+    background-color: #333;
+    color:wheat;
+    height: 104px;
+    font-family:sofia;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

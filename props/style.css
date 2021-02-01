@@ -1,0 +1,16 @@
+body { 
+    background-color: whitesmoke;
+}
+
+.joke_container{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.joke_container .joke{
+    background-color: aqua;
+    padding: 8px; 
+    margin: 10px;
+    text-align: center;
+}
+.joke_container .joke p{
+   font-weight: bold;
+}
