@@ -1,0 +1,22 @@
+body{
+	font-family:sans-serif;
+}
+.clock{
+	margin: auto;
+    color: white;
+    display:flex;
+}
+.clock_block{
+	background-color:rgba(220,220,220,0.4);
+	padding:4px 12px;
+	border-radius:8px;
+	margin:0px 12px;
+	width:70px;
+}
+.clock_block h1{
+	margin:2px;
+}
+.clock_block h1.num{
+	font-size:40px;
+	font-family:sofia;
+}
